@@ -1,4 +1,7 @@
-# E-commerce-Data-Analysis for Sales Strategy
+
+
+# E-comme![kmart1](https://github.com/user-attachments/assets/0da38027-6ec2-4f15-996e-7a8dfaf01cf0)
+rce-Data-Analysis for Sales Strategy
 
 In their annual sales review meeting, Kmart, one of the largest online retailers in the US, must decide on their sales strategy for 2020 based on insights from the 2019 sales data.
 
